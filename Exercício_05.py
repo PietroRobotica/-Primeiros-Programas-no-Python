@@ -8,3 +8,5 @@ numero_em_polegada = numero / 2.54
 
 # Saída
 print(f" {numero} cm = {numero_em_polegada} polegadas")
+
+# Usamos o "f" para escrever 2 informações sem somar

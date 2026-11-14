@@ -1,9 +1,5 @@
 # Receba a idade e anos e imprima em meses, dias, horas e minutos
 
-# Padrôes da escrita de variáveis, funções, etc em programação
-# Pascal Case - Idade da Pessoa - Maiúscula desde ap primeira palavra
- 
-
 # Números, textos e booleanos
 # Entrada 
 idade = int(input("Digite a sua idade: "))
