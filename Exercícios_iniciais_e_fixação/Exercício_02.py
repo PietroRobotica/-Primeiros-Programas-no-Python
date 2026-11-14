@@ -10,7 +10,7 @@ Idade_Semanas = 4 * 12 * Idade
 
 # Saída
 
-print(f"Sua Idade é: {Idade} ")
+print(f"Sua Idade é: {Idade} anos")
 print()
 
 print(f"Sua Idade em Semanas é: {Idade_Semanas} Semanas")
